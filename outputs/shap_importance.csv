@@ -1,0 +1,11 @@
+,mean_abs_shap
+threat_type,0.724599
+log_records,0.6288702
+control_maturity,0.57210606
+asset_criticality,0.55724865
+org_size,0.55318147
+cvss_score,0.5348044
+industry,0.38228622
+event_frequency_per_year,0.37467974
+detection_hours,0.2747669
+patch_delay_days,0.15845066
