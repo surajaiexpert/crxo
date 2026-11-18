@@ -1,0 +1,6 @@
+control_id,control_name,yearly_cost_inr
+C1,Email security gateway + phishing training,800000
+C2,Endpoint detection and response (EDR),1500000
+C3,Automated patch management,600000
+C5,DDoS protection service,500000
+C7,Multi-factor authentication,400000

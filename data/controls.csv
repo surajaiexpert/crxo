@@ -1,0 +1,10 @@
+control_id,control_name,yearly_cost_inr,Ransomware,Phishing,Data_Breach,DDoS,Insider_Threat,Malware,Web_App_Attack
+C1,Email security gateway + phishing training,800000,0.20,0.55,0.00,0.00,0.00,0.25,0.00
+C2,Endpoint detection and response (EDR),1500000,0.45,0.05,0.05,0.00,0.10,0.55,0.00
+C3,Automated patch management,600000,0.20,0.00,0.15,0.00,0.00,0.20,0.35
+C4,Web application firewall,700000,0.00,0.00,0.15,0.25,0.00,0.00,0.50
+C5,DDoS protection service,500000,0.00,0.00,0.00,0.70,0.00,0.00,0.05
+C6,Data encryption + leak prevention,1200000,0.05,0.00,0.45,0.00,0.35,0.00,0.00
+C7,Multi-factor authentication,400000,0.10,0.30,0.25,0.00,0.15,0.00,0.10
+C8,Backup and recovery system,900000,0.35,0.00,0.00,0.00,0.00,0.10,0.00
+C9,24x7 security monitoring (SOC service),2500000,0.20,0.15,0.20,0.20,0.25,0.20,0.20
