@@ -1,0 +1,12 @@
+Best model: SVM
+
+              precision    recall  f1-score   support
+
+         Low       0.78      0.65      0.71       101
+      Medium       0.64      0.69      0.66       208
+        High       0.64      0.66      0.65       215
+    Critical       0.65      0.57      0.61        76
+
+    accuracy                           0.66       600
+   macro avg       0.68      0.64      0.66       600
+weighted avg       0.66      0.66      0.66       600

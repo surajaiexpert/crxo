@@ -1,0 +1,4 @@
+model,cv_mean_accuracy,cv_std,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_within_one_level
+XGBoost,0.6579,0.0195,0.6567,0.6901,0.6254,0.6491,0.995
+Random Forest,0.6363,0.0281,0.6217,0.669,0.5646,0.5932,0.9917
+SVM,0.6692,0.0284,0.6583,0.6755,0.643,0.6568,0.9917
